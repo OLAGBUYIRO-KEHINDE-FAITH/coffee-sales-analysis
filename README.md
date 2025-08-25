@@ -106,4 +106,18 @@ To ensure data quality and consistency, the following steps were applied:
 
 ---
 
+## Recommendations
+
+The sales analysis for 2019–2022 revealed a significant decline in 2022, with **no sales recorded in Q4** and low sales across all coffee types. To address these challenges and improve overall performance, the following recommendations are proposed:
+
+### 1. Improve Sales for Underperforming Coffee Types
+- Develop and implement a strategic plan aimed at boosting sales for all coffee types, with particular focus on underperforming ones such as **Lib** and **Rob**.  
+- Enhance product quality through taste improvements and customer feedback initiatives to ensure consistent satisfaction.  
+- Introduce promotional campaigns, e.g., **“Buy One, Get One Free”**, to encourage customers to try different coffee varieties and build familiarity.  
+
+### 2. Increase Market Presence in Low-Performing Regions
+- Target countries like **United Kingdom** and **Ireland**, which show comparatively low sales relative to the United States.  
+- Employ marketing strategies including collaborations with social media influencers to promote the brand and increase customer awareness.  
+- Conduct awareness campaigns highlighting the unique qualities of each coffee type to attract new customers and strengthen brand recognition.  
+
 *This analysis was performed using Excel and represents insights from the internship dataset.*
